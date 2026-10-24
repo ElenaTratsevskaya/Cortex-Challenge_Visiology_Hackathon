@@ -11,7 +11,7 @@
 </div>
 <br>
 
-Состав команды **BI Ladies** Дробова Дарья, Трацевская Елена<br><br>
+Состав команды **BI Ladies**: Дробова Дарья, Трацевская Елена<br><br>
 
 <div id="header" align="center">
 <img src="https://allwebs.ru/images/2026/10/24/02c173bf0acc55d0047293f3970ebf91.png" title="BI Ladies" width="180" height="60"/>&nbsp;
