@@ -9,7 +9,8 @@
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/deepseek.webp" title="DeepSeek" width="50" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cursor_logo.svg/1280px-Cursor_logo.svg.png" title="Cursor" width="164" height="40"/>&nbsp;
 </div>
-<br><br>
+<br>
+
 Состав команды **BI Ladies** Дробова Дарья, Трацевская Елена<br><br>
 
 <div id="header" align="center">
