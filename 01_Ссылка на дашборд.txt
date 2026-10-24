@@ -1,0 +1,1 @@
+https://hackathon-cortex.visiology.su/v3/visiology-designer/dashboard-viewer-presentation?workspaceId=29af6c6c-d430-47fc-b5a1-26a660a4a6ad&dashboardGuid=c252b14bb27d4f518f9b4ac8ba35e30a&showNav=true
