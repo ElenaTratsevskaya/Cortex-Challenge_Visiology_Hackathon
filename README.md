@@ -9,14 +9,12 @@
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/deepseek.webp" title="DeepSeek" width="50" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cursor_logo.svg/1280px-Cursor_logo.svg.png" title="Cursor" width="164" height="40"/>&nbsp;
 </div>
-<br>
-
-Состав команды **BI Ladies** Дробова Дарья, Трацевская Елена
+<br><br>
+Состав команды **BI Ladies** Дробова Дарья, Трацевская Елена<br><br>
 
 <div id="header" align="center">
 <img src="https://allwebs.ru/images/2026/10/24/02c173bf0acc55d0047293f3970ebf91.png" title="BI Ladies" width="180" height="60"/>&nbsp;
 </div>
-<br>
 ---
 
 ## Суть конкурса
