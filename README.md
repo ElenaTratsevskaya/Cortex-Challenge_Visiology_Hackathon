@@ -7,7 +7,7 @@
 <img src="https://allwebs.ru/images/2026/10/24/192a9cdf8c46d9cb6b4b53abea95183c.png" title="Cortex" width="120" height="40"/>&nbsp;
 <img src="https://yt3.googleusercontent.com/vJh2foRtV4yruG_m4yP5BcK3lnfGBW9Av1MNMEhPTwduGrbvgqD-kqA7NL-WjXJ7F6mDj07LFw=s900-c-k-c0x00ffffff-no-rj" title="Visiology" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/deepseek.webp" title="DeepSeek" width="50" height="50"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cursor_logo.svg/1280px-Cursor_logo.svg.png" title="Cursor" width="164" height="40"/>&nbsp;
+<img src="https://cdn1.tenchat.ru/static/vbc-gostinder/2025-05-19/f3d592c4-6f18-4095-8b73-f6d89e8c3f58.png?width=1004&height=525&fmt=webp" title="Cursor" width="95" height="50"/>&nbsp;
 </div>
 <br>
 
