@@ -60,7 +60,7 @@
 <br><br>
 <img width="1723" height="968" alt="02_Л6_Буфер ликвидности" src="https://github.com/user-attachments/assets/3028402d-23e2-4be4-85ca-0d9c055ab71d" />
 <br><br>
-<img width="1359" height="763" alt="400" src="https://github.com/user-attachments/assets/86858c54-03a5-447c-a297-353c06cdc73f" />
+<img width="1360" height="769" alt="400" src="https://github.com/user-attachments/assets/8cec2450-4872-47e4-8055-aecedec1180e" />
 
 ---
 
