@@ -104,3 +104,5 @@
 | `06` | Таблицы what-if |
 | `07`–`09` | Cortex и проверка ИИ |
 | `10`–`12` | Коммуникация, бизнес-проблема, аналитическая записка |
+
+**[Ссылка на zip](https://drive.google.com/file/d/1H3VsQMHIwy2V5rYawnDeleUQn8Aq5Wvt/view?usp=sharing)**
